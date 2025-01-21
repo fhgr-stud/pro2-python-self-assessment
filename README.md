@@ -11,19 +11,19 @@ müsst ihr dieses Repository auf euren Rechner herunterladen und in Visual Studi
 
 
 ## Möglichkeit 1:
-Startet Visual Studio Code, auf der Startseite klickt ihr auf "Clone Git Repository..." und gebt folgende URL ein:
+Startet PyCharm, auf der Startseite klickt ihr auf "Clone Repository" und gebt folgende URL ein:
 
-    https://github.com/ib-fhgr/python-warmup.git
+    https://github.com/fhgr-stud/python-warmup.git
 
 
 ## Möglichkeit 2: 
 Öffnet eine Powershell oder Eingabeaufforderung (Windows) oder ein Terminal (MacOS, Linux) und gebt folgenden Befehl ein:
 
 
-    git clone https://github.com/ib-fhgr/python-warmup.git
+    git clone https://github.com/fhgr-stud/python-warmup.git
 
 
-Danach könnt ihr das Verzeichnis `python-warmup` mit Visual Studio Code öffnen.
+Danach könnt ihr das Verzeichnis `python-warmup` mit Pycharm öffnen.
 
 
 

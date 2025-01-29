@@ -12,7 +12,7 @@ import random
 
 # Zufallszahl generieren (zwischen 1 und 100
 # 
-# Wiederhole:
+# Wiederhole Sie folgendes:
 #    Zahl vom Benutzer einlesen
 #    Falls die Zahl erraten wurde, soll das Programm beendet werden (break)
 #    Sonst Ausgabe ob die Zahl zu groß oder zu klein ist
@@ -28,9 +28,8 @@ import random
 
 
 # Tipps: 
-
-# Man kann mit input() eine Zahl vom Benutzer einlesen, z.B. zahl = input("Bitte Zahl eingeben: ")
-# Die Funktion int() wandelt einen String in eine Zahl um
-# Man kann mit break eine Schleife beenden
-# wenn man nicht weiss, wie lange eine Schleife läuft, dann bietet sich eine while-Schleife an
-# mit "while True:" kann man eine Endlosschleife programmieren.
+# - Man kann mit input() eine Zahl vom Benutzer einlesen, z.B. zahl = input("Bitte Zahl eingeben: ")
+# - Die Funktion int() wandelt einen String in eine Zahl um
+# - Man kann mit break eine Schleife beenden
+# - wenn man nicht weiss, wie lange eine Schleife läuft, dann bietet sich eine while-Schleife an
+#   mit "while True:" kann man eine Endlosschleife programmieren.

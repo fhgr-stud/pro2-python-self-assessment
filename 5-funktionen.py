@@ -1,6 +1,6 @@
 # Übung: Funktionen in Python
 # ===========================
-## Bearbeiten Sie die folgenden Aufgaben am besten zu zweit - bitte melden Sie sich, wenn Sie Fragen haben - ich komme gerne zu Ihnen!
+# Bearbeiten Sie die folgenden Aufgaben am besten zu zweit - bitte melden Sie sich, wenn Sie Fragen haben - ich komme gerne zu Ihnen!
 
 
 # Schritt 1

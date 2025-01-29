@@ -8,7 +8,7 @@ Um die Aufgaben auf Ihrem Rechner zu bearbeiten, müssen Sie dieses Repository c
 
 
 ## Möglichkeit 1:
-Starten Sie PyCharm. Auf der Startseite wählen Sie "Clone Repository" und geben Sie den folgenden URL ein:
+Starten Sie PyCharm. Auf der Startseite wählen Sie "Clone Repository" und geben Sie die folgenden URL ein:
 
     https://github.com/fhgr-stud/python-warmup.git
 

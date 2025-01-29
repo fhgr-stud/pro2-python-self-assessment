@@ -34,4 +34,3 @@ import random
 # Man kann mit break eine Schleife beenden
 # wenn man nicht weiss, wie lange eine Schleife läuft, dann bietet sich eine while-Schleife an
 # mit "while True:" kann man eine Endlosschleife programmieren.
-
